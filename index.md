@@ -7,7 +7,7 @@
 
 ```
 $ git init
-Initialized empty Git repository in /Users/fenago/Projects/recipe-repository/.git/
+Test
 ```
 
 
